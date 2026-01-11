@@ -9,10 +9,23 @@
 
 Каждая практическая работа находится в отдельной папке:
 
-AI-systems/
-    ├── pr1/
-    ├── pr2/
-    ├── pr3/
+AI-systems
+    ├── pr1
+         ├── 4 Salary.csv
+         ├── PR1.ipynb
+         ├── Practice1.ipynb
+         └── Отчёт 1 Практическая.docx
+    ├── pr2
+         ├── 4 Salary.csv
+         ├── PR2.ipynb
+         ├── Practice2.ipynb
+         └── Отчёт 2 Практическая.docx
+    └─── pr3
+         ├── 4 Country-data.csv
+         ├── iris.csv
+         ├── PR3.ipynb
+         ├── Practice3.ipynb
+         └── Отчёт 3 Практическая.docx
 
 
 Где:
